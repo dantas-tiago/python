@@ -1,0 +1,2 @@
+pep 8
+classes devem ser declaradas em PascalCase;
